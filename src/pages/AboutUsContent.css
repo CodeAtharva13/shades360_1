@@ -1,0 +1,71 @@
+.sg2-1-icon {
+  position: absolute;
+  top: calc(50% - 278px);
+  left: calc(50% - 688px);
+  width: 1376px;
+  height: 556px;
+  object-fit: cover;
+}
+.text {
+  position: absolute;
+  top: 301px;
+  left: 108px;
+  font-weight: 800;
+}
+.about-us-content-child {
+  position: absolute;
+  top: 53px;
+  left: 1324px;
+  width: 53px;
+  height: 52px;
+}
+.discover-the-shades {
+  position: absolute;
+  top: 127px;
+  left: 63px;
+  font-size: 48px;
+  font-family: Lora;
+}
+.born-in-la {
+  margin: 0;
+}
+.from-city-streets {
+  font-weight: 700;
+}
+.from-city-streets-to-sandy-sho {
+  margin: 0;
+  font-size: 36px;
+  color: #fab000;
+  font-family: Amiri;
+}
+.born-in-la-container {
+  position: absolute;
+  top: 790px;
+  left: calc(50% - 556px);
+  line-height: 149.41%;
+  text-align: center;
+  display: inline-block;
+  width: 1111px;
+  font-size: 32px;
+  color: #000;
+  font-family: "Quattrocento Sans";
+}
+.about-us-content-item {
+  position: absolute;
+  top: 206px;
+  left: 0;
+  width: 1110px;
+  height: 2.6px;
+  object-fit: contain;
+}
+.about-us-content {
+  width: 100%;
+  position: relative;
+  background-color: #fff8ec;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 40px;
+  color: #502e23;
+  font-family: "Work Sans";
+}
